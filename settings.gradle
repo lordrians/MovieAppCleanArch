@@ -1,0 +1,2 @@
+rootProject.name = "MovieAppCleanArch"
+include ':app'
